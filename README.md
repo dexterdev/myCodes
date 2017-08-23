@@ -1,3 +1,3 @@
-This is the repos for my codes.
+My Codes related to Protein structure course work assignment.
 
 
